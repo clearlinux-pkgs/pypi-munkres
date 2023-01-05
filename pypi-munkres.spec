@@ -4,7 +4,7 @@
 #
 Name     : pypi-munkres
 Version  : 1.1.4
-Release  : 33
+Release  : 34
 URL      : https://files.pythonhosted.org/packages/fd/41/6a3d0ef908f47d07c31e5d1c2504388c27c39b10b8cf610175b5a789a5c1/munkres-1.1.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/fd/41/6a3d0ef908f47d07c31e5d1c2504388c27c39b10b8cf610175b5a789a5c1/munkres-1.1.4.tar.gz
 Summary  : Munkres (Hungarian) algorithm for the Assignment Problem
